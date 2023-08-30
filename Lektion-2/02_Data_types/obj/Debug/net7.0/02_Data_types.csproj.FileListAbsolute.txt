@@ -1,0 +1,14 @@
+C:\skola\c-sharp\Lektion-2\02_Data_types\bin\Debug\net7.0\02_Data_types.exe
+C:\skola\c-sharp\Lektion-2\02_Data_types\bin\Debug\net7.0\02_Data_types.deps.json
+C:\skola\c-sharp\Lektion-2\02_Data_types\bin\Debug\net7.0\02_Data_types.runtimeconfig.json
+C:\skola\c-sharp\Lektion-2\02_Data_types\bin\Debug\net7.0\02_Data_types.dll
+C:\skola\c-sharp\Lektion-2\02_Data_types\bin\Debug\net7.0\02_Data_types.pdb
+C:\skola\c-sharp\Lektion-2\02_Data_types\obj\Debug\net7.0\02_Data_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\skola\c-sharp\Lektion-2\02_Data_types\obj\Debug\net7.0\02_Data_types.AssemblyInfoInputs.cache
+C:\skola\c-sharp\Lektion-2\02_Data_types\obj\Debug\net7.0\02_Data_types.AssemblyInfo.cs
+C:\skola\c-sharp\Lektion-2\02_Data_types\obj\Debug\net7.0\02_Data_types.csproj.CoreCompileInputs.cache
+C:\skola\c-sharp\Lektion-2\02_Data_types\obj\Debug\net7.0\02_Data_types.dll
+C:\skola\c-sharp\Lektion-2\02_Data_types\obj\Debug\net7.0\refint\02_Data_types.dll
+C:\skola\c-sharp\Lektion-2\02_Data_types\obj\Debug\net7.0\02_Data_types.pdb
+C:\skola\c-sharp\Lektion-2\02_Data_types\obj\Debug\net7.0\02_Data_types.genruntimeconfig.cache
+C:\skola\c-sharp\Lektion-2\02_Data_types\obj\Debug\net7.0\ref\02_Data_types.dll
